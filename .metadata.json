@@ -1,0 +1,13 @@
+[
+  {
+    "package": "HeritSeq",
+    "oncran": true
+  },
+  {
+    "package": "SmCCNet",
+    "oncran": true
+  },
+  {
+    "package": "multiMiR"
+  }
+]

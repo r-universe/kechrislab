@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HeritSeq"]
+	path = HeritSeq
+	url = https://github.com/kechrislab/heritseq
+	shallow = true
+	registered = true
+[submodule "SmCCNet"]
+	path = SmCCNet
+	url = https://github.com/kechrislab/smccnet
+	shallow = true
+	registered = true
+[submodule "multiMiR"]
+	path = multiMiR
+	url = https://github.com/kechrislab/multimir
+	shallow = true
+	registered = true
