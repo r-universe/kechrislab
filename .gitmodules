@@ -13,8 +13,3 @@
 	url = https://github.com/kechrislab/smccnet
 	shallow = true
 	registered = true
-[submodule "multiMiR"]
-	path = multiMiR
-	url = https://github.com/kechrislab/multimir
-	shallow = true
-	registered = true
