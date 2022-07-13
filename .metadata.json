@@ -6,5 +6,8 @@
   {
     "package": "SmCCNet",
     "oncran": true
+  },
+  {
+    "package": "multiMiR"
   }
 ]
