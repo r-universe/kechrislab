@@ -13,6 +13,11 @@
 	url = https://github.com/kechrislab/smccnet
 	shallow = true
 	registered = true
+[submodule "MAI"]
+	path = MAI
+	url = https://github.com/kechrislab/mai
+	shallow = true
+	registered = true
 [submodule "MSPrep"]
 	path = MSPrep
 	url = https://github.com/kechrislab/msprep
