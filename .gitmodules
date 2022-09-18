@@ -18,13 +18,3 @@
 	url = https://github.com/kechrislab/mai
 	shallow = true
 	registered = true
-[submodule "MSPrep"]
-	path = MSPrep
-	url = https://github.com/kechrislab/msprep
-	shallow = true
-	registered = true
-[submodule "multiMiR"]
-	path = multiMiR
-	url = https://github.com/kechrislab/multimir
-	shallow = true
-	registered = true
