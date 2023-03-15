@@ -1,19 +1,19 @@
 [
   {
-    "package": "HeritSeq",
-    "oncran": true
+    "package": "multiMiR"
+  },
+  {
+    "package": "MSPrep"
+  },
+  {
+    "package": "MAI"
   },
   {
     "package": "SmCCNet",
     "oncran": true
   },
   {
-    "package": "MAI"
-  },
-  {
-    "package": "MSPrep"
-  },
-  {
-    "package": "multiMiR"
+    "package": "HeritSeq",
+    "oncran": true
   }
 ]
