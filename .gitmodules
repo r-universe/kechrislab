@@ -11,9 +11,9 @@
 [submodule "MSPrep"]
 	path = MSPrep
 	url = https://github.com/kechrislab/msprep
-[submodule "multiMiR"]
-	path = multiMiR
-	url = https://github.com/kechrislab/multimir
 [submodule "SmCCNet"]
 	path = SmCCNet
 	url = https://github.com/kechrislab/smccnet
+[submodule "multiMiR"]
+	path = multiMiR
+	url = https://github.com/kechrislab/multimir
